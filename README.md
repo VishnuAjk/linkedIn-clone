@@ -46,4 +46,4 @@ This is a clone of the LinkedIn website built using React, Redux, Firebase, and 
 
 ## Website Link
 
-[linkedInClone](https://662d0a01606617e0a1f85288--unrivaled-biscuit-2adef9.netlify.app/)
+[linkedInClone](https://662f28794c95ce6a3cd217ee--aesthetic-paprenjak-358dec.netlify.app/)
