@@ -46,4 +46,4 @@ This is a clone of the LinkedIn website built using React, Redux, Firebase, and 
 
 ## Website Link
 
-Temperorily Down !!
+Temporarily Down !!
